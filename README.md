@@ -6,8 +6,4 @@ Bem-vindo ao meu perfil do GitHub! Estou atualmente graduando em Engenharia de C
 
 - **Linguagens de Programação**: C, javascript.
   
-## Contato
-
-- 📧 Email: dirceuj945@gmail.com
-
 ---
