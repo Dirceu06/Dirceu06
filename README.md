@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou [Dirceu Júnior](https://github.com/Dirceu06) 👋
 
-<!--
-**Dirceu06/Dirceu06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Estou atualmente graduando em Engenharia de Computação pela Universidade Tecnológica Federal do Paraná (UTFPR) e aqui você pode encontrar meus projetos.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação**: C, javascript.
+- **Ferramentas e Tecnologias**: Git.
+
+## Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Dirceu06&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+![Línguas](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirceu06&hide=html&layout=compact&hide_border=true&theme=radical)
+
+## Contato
+
+- 📧 Email: dirceuj945@gmail.com
+
+---
