@@ -4,6 +4,6 @@ Bem-vindo ao meu perfil do GitHub! Estou atualmente graduando em Engenharia de C
 
 ## Habilidades
 
-- **Linguagens de Programação**: C, javascript.
+- **Linguagens de Programação**: C, python.
   
 ---
