@@ -4,6 +4,16 @@ Bem-vindo ao meu perfil do GitHub! Estou atualmente graduando em Engenharia de C
 
 ## Habilidades
 
-- **Linguagens de Programação**: C, python.
+### Linguagens de Programação
+- C  
+- Python  
   
----
+### Fundamentos e Arquitetura
+- Programação Orientada a Objetos (POO)  
+- Estruturas de Dados  
+
+### Banco de Dados
+- Modelagem de dados  
+- SQL  
+- Bancos de dados relacionais
+
