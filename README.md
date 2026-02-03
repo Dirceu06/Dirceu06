@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Estou atualmente graduando em Engenharia de C
 
 ### Linguagens de Programação
 - C
-- c++
+- C++
 - Python  
   
 ### Fundamentos e Arquitetura
